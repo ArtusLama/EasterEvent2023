@@ -1,0 +1,11 @@
+name: Easterevent2023
+version: '${project.version}'
+main: de.artus.easterevent2023.Easterevent2023
+api-version: 1.19
+authors: [ Artus ]
+
+commands:
+  newegg:
+    description: ...
+  startgame:
+    description: ...
